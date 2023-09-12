@@ -1,3 +1,3 @@
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| (https://github.com/RoschinDi/goldie/blob/main/goldie.ipynb) | Прогноз концентрации золота при проведении процесса очистки золота| *pandas*, *matplotlib*, *numpy*, *scikit-learn* |
+| https://github.com/RoschinDi/goldie/blob/main/goldie.ipynb | Прогноз концентрации золота при проведении процесса очистки золота| *pandas*, *matplotlib*, *numpy*, *scikit-learn* |
