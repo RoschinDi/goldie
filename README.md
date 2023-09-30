@@ -2,4 +2,4 @@
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Исследование технологического процесса очистки золота](https://github.com/RoschinDi/goldie/blob/main/goldie.ipynb) | Прогноз концентрации золота при проведении процесса очистки золота| *pandas*, *matplotlib*, *numpy*, *scikit-learn* |
-| [Исследование технологического процесса очистки золота](https://github.com/RoschinDi/goldie/blob/main/goldie.ipynb) | Телеком компания хочет научиться прогнозировать отток клиентов| *pandas*, *matplotlib*, *numpy*, *scikit-learn* |
+| [Прогноз оттока клиентов](https://github.com/RoschinDi/goldie/tree/main/customer_churn)| Телеком компания хочет научиться прогнозировать отток клиентов| *pandas*, *matplotlib*, *numpy*, *scikit-learn* |
