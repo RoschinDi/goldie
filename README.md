@@ -8,3 +8,4 @@
 |[Прогнозирование оттока клиентов банка](https://github.com/RoschinDi/ya_projects/tree/main/bank_customers_churn)| Спрогнозировать уйдет клиент в ближайшем будущем или нет| *pandas*, *matplotlib*, *scikit-learn* |
 |[Рекомендация тарифов](https://github.com/RoschinDi/ya_projects/tree/main/mobile_rates)|Построить модель, способную проанализировать поведение клиентов и предложить пользователям новый тариф.| *pandas*, *matplotlib*, *scikit-learn* |
 |[Определение наиболее выгодного региона нефтедобычи](https://github.com/RoschinDi/ya_projects/tree/main/oil_production)|Построить модель для определения региона, где добыча нефти принесёт наибольшую прибыль| *pandas*, *matplotlib*, *bootstrap* |
+|Защита данных клиентов страховой компании|Разработка модели анонимизации персональных данных| *pandas*, *numpy*, *scikit-learn* |
