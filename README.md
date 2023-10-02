@@ -12,3 +12,4 @@
 |[Определение стоимости автомобилей](https://github.com/RoschinDi/ya_projects/tree/main/cars_price)|Разработка модели определения рыночной стоимости автомобилей| *pandas*, *numpy*, *scikit-learn*, *lightgbm* |
 |[Прогнозирование количества заказов такси на следующий час](https://github.com/RoschinDi/ya_projects/tree/main/next_taxis_orders)|Разработка системы предсказания объема заказа| *pandas*, *scikit-learn*, *statsmodels* |
 |[Обучение модели классификации комментариев](https://github.com/RoschinDi/ya_projects/tree/main/toxic_comments)|Определение токсичности комментариев| *pandas*, *nltk*, *tf-idf* |
+|Обработка фотографий покупателей|Определение возраста по фотографиям| *pandas*, *matplotlib*, *keras* |
