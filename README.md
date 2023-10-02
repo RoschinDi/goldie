@@ -9,4 +9,4 @@
 |[Рекомендация тарифов](https://github.com/RoschinDi/ya_projects/tree/main/mobile_rates)|Построить модель, способную проанализировать поведение клиентов и предложить пользователям новый тариф.| *pandas*, *matplotlib*, *scikit-learn* |
 |[Определение наиболее выгодного региона нефтедобычи](https://github.com/RoschinDi/ya_projects/tree/main/oil_production)|Построить модель для определения региона, где добыча нефти принесёт наибольшую прибыль| *pandas*, *matplotlib*, *bootstrap* |
 |[Защита данных клиентов страховой компании](https://github.com/RoschinDi/ya_projects/tree/main/data_protection)|Разработка модели анонимизации персональных данных| *pandas*, *numpy*, *scikit-learn* |
-|Определение стоимости автомобилей|Разработка модели определения рыночной стоимости автомобилей| *pandas*, *numpy*, *scikit-learn*, *lightgbm* |
+|[Определение стоимости автомобилей](https://github.com/RoschinDi/ya_projects/tree/main/cars_price)|Разработка модели определения рыночной стоимости автомобилей| *pandas*, *numpy*, *scikit-learn*, *lightgbm* |
