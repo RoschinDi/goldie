@@ -10,4 +10,4 @@
 |[Определение наиболее выгодного региона нефтедобычи](https://github.com/RoschinDi/ya_projects/tree/main/oil_production)|Построить модель для определения региона, где добыча нефти принесёт наибольшую прибыль| *pandas*, *matplotlib*, *bootstrap* |
 |[Защита данных клиентов страховой компании](https://github.com/RoschinDi/ya_projects/tree/main/data_protection)|Разработка модели анонимизации персональных данных| *pandas*, *numpy*, *scikit-learn* |
 |[Определение стоимости автомобилей](https://github.com/RoschinDi/ya_projects/tree/main/cars_price)|Разработка модели определения рыночной стоимости автомобилей| *pandas*, *numpy*, *scikit-learn*, *lightgbm* |
-|Прогнозирование количества заказов такси на следующий час|Разработка системы предсказания объема заказа| *pandas*, *scikit-learn*, *statsmodels* |
+|[Прогнозирование количества заказов такси на следующий час](https://github.com/RoschinDi/ya_projects/tree/main/next_taxis_orders)|Разработка системы предсказания объема заказа| *pandas*, *scikit-learn*, *statsmodels* |
