@@ -9,3 +9,6 @@
 ## Используемые библиотеки
 *pandas*, *matplotlib*, *scikit-learn*
 
+## Общий вывод
+Проведена предобработка данных: унификация регистра и переименование столбцов, удаление пропусков в "total_charges", преобразование категориальных признаков методом OHE и их масштабирование. Сравнены три модели: LogisticRegression, RandomForestClassifier и CatBoostClassifier. Лучшей оказалась CatBoostClassifier с параметрами depth=3, iterations=500, learning_rate=0.2, достигнув ROC-AUC = 0.92 и accuracy = 0.92.
+
