@@ -8,3 +8,6 @@
 
 ## Используемые библиотеки
 *pandas*, *matplotlib*, *scikit-learn*
+
+## Общий вывод
+Данные были предоставленны чистыми. Предобработка не потребовалась. Были исследованы три модели: DecisionTreeClassifier, RandomForestClassifier и LinearRegression. Наилучшую эффективность показала модель RandomForestClassifier и показала accuracy - 0.78. 
